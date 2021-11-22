@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Visit the vet",
+      "day": "Nov 12, 3:30PM",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Get groceries",
+      "day": "Nov 15, 12:00PM",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Order surf wax",
+      "day": "Nov 11, 11:30PM",
+      "reminder": true
+    }
+  ]
+}
